@@ -1,10 +1,14 @@
 # 👋 Hi there, I'm Shweta!
 
-🎓 Currently pursuing my masters in Germany | Working as a part time Research assistant
-💼 Previously worked as an SAP MII/MES Developer for 2.5 years  
-🛠️ Skills: SAP MII, SAP UI5, JavaScript, SQL, Python,   
-🧠 Interests: Currently exploring full stack development with different stacks. Learning more about SAP BTP, little bit of AI (staying relevant), Data Analytics
-               
+🎓Pursuing my masters in Germany | Working as a part time Research assistant in the Aviation Institute in the University of Stuttgart building domain specific models for Avionics Devices.
+
+I'm a tech generalist with roots in SAP MII and a growing passion for building innovative — the kind that bridge data driven solutions with modern AI and great user experiences.
+
+By day, I am pursuing my master’s in Germany, diving deep into topics like deep learning for medical imaging (ask me about ACL tears and MRI classification 👨‍⚕️[![ACL-DNet Blog](https://img.shields.io/badge/-📝%20Blog-blue?style=flat-square "ACL-DNet blog post")](https://shwetakadam-git.github.io/ACL-DNet/). By night, I am crafting responsive front ends, playing with new tech stacks, and chasing ideas that keep me up past midnight. Not all of them land; but hey, at least I sleep knowing I gave them a shot.
+
+I'm curious about 🧠 applied deep learning and 💡 turning complex problems into modern, usable systems.
+
+Currently working on improving my skills in the areas - full stack development, little bit of data analytics. I hope to deepen my skillsets along the way.
 
 ---
 
@@ -24,11 +28,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShwetaKadam-Git&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=ShwetaKadam-Git&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaKadam-Git&layout=compact)
 
 ---
 
-_Feel free to reach out if you’d like to collaborate._ 🚀
+🚀 Let's Connect. [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/shweta-k-37006a149/)
