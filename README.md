@@ -1,14 +1,12 @@
 # 👋 Hi there, I'm Shweta!
 
-🎓Pursuing my masters in Germany | Working as a part time Research assistant in the Aviation Institute in the University of Stuttgart building domain specific models for Avionics Devices.
-
 I'm a tech generalist with roots in SAP MII and a growing passion for building innovative — the kind that bridge data driven solutions with modern AI and great user experiences.
 
-By day, I am pursuing my master’s in Germany, diving deep into topics like deep learning for medical imaging (ask me about ACL tears and MRI classification 👨‍⚕️[![ACL-DNet Blog](https://img.shields.io/badge/-📝%20Blog-blue?style=flat-square "ACL-DNet blog post")](https://shwetakadam-git.github.io/ACL-DNet/). By night, I am crafting responsive front ends, playing with new tech stacks, and chasing ideas that keep me up past midnight. Not all of them land; but hey, at least I sleep knowing I gave them a shot.
+By day, I am pursuing my 🎓 master’s in Germany, diving deep into topics like deep learning for medical imaging (ask me about ACL tears and MRI classification 👨‍⚕️[![ACL-DNet Blog](https://img.shields.io/badge/-📝%20Blog-blue?style=flat-square "ACL-DNet blog post")](https://shwetakadam-git.github.io/ACL-DNet/). By night, I am crafting responsive front ends, playing with new tech stacks, and chasing ideas that keep me up past midnight. Not all of them land; but hey, at least I sleep knowing I gave them a shot.
 
 I'm curious about 🧠 applied deep learning and 💡 turning complex problems into modern, usable systems.
 
-Currently working on improving my skills in the areas - full stack development, little bit of data analytics. I hope to deepen my skillsets along the way.
+Currently working on improving my skills in the areas - full stack development, little bit of data analytics, AI. I hope to deepen my skillsets along the way.
 
 ---
 
@@ -24,7 +22,8 @@ Currently working on improving my skills in the areas - full stack development, 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![EMF](https://img.shields.io/badge/EMF-Eclipse%20Modeling-ff69b4)
 
-
+## Current position- Research assistant
+Working part time in the Aviation Institute at the University of Stuttgart building domain specific models for Avionics Devices.
 
 ---
 
