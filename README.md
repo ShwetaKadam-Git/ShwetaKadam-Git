@@ -34,4 +34,4 @@ Working part time in the Aviation Institute at the University of Stuttgart build
 
 ---
 
-🚀 Feel free to Connect with me on LinkedIn to collaborate, discuss ideas or just say hi. [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/shweta-k-37006a149/)
+🚀 Feel free to Connect with me on LinkedIn to collaborate, discuss ideas and working together. [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/shweta-k-37006a149/)
