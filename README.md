@@ -6,7 +6,7 @@ By day, I am pursuing my 🎓 master’s in Germany, diving deep into topics lik
 
 I'm curious about 🧠 applied deep learning and 💡 turning complex problems into modern, usable systems.
 
-Currently working on improving my skills in the areas - full stack development, little bit of data analytics, AI. I hope to deepen my skillsets along the way.
+Currently working on improving my skills in the areas - full stack development, little bit of data analytics, AI. And I hope to deepen my skillsets using different avenues along the way.
 
 ---
 
@@ -34,4 +34,4 @@ Working part time in the Aviation Institute at the University of Stuttgart build
 
 ---
 
-🚀 Let's Connect. [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/shweta-k-37006a149/)
+🚀 Feel free to Connect with me on LinkedIn to collaborate, discuss ideas or just say hi. [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/shweta-k-37006a149/)
